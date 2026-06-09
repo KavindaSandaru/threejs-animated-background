@@ -100,16 +100,3 @@ The project is optimized for:
 - Tablets
 - Mobile devices
 
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## ⭐ Credits
-
-Built using the amazing Three.js library.
-https://www.youtube.com/watch?v=hiXkW1iEPY4&list=PLaYsth8JnnBRRuHargaQ3o7md60bOTNak&index=11
-https://threejs.org/
